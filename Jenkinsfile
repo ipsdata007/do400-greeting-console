@@ -29,5 +29,5 @@ oc project xdevbu-greetings
 oc start-build greeting-console --follow --wait
 '''
 }
-}    
+}}    
 
